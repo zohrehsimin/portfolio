@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep *)",
+      "mcp__21st__search_logo",
+      "WebFetch(domain:svgl.app)"
+    ]
+  }
+}

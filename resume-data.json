@@ -1,0 +1,59 @@
+{
+  "name": "Zohreh Simin",
+  "title": "Frontend Engineer | React.js | Next.js | TypeScript",
+  "contact": {
+    "email": "zohrehsimin@gmail.com",
+    "phone": "+989128597461",
+    "location": "Tehran, Iran"
+  },
+  "summary": "8+ years of experience building scalable, responsive, and high-performance web applications across telecom, healthcare, search technologies, and enterprise platforms. Specialized in React.js, Next.js, and TypeScript, with deep expertise in developing enterprise-level dashboards, admin panels, browser extensions, and web apps.",
+  "skills": {
+    "core": ["React.js", "Next.js", "TypeScript", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "SASS/SCSS"],
+    "stateAndData": ["Redux", "React Query (TanStack)", "Context API"],
+    "uiLibraries": ["Ant Design", "Material UI (MUI)", "Framer Motion"],
+    "toolsAndDevOps": ["Cypress", "Git", "GitLab CI/CD", "Docker", "Webpack", "Vite", "NPM", "Yarn"],
+    "concepts": ["SSR / SSG / CSR", "Frontend Architecture", "Performance Optimization", "REST APIs", "Cross-Browser Compatibility", "Agile / Scrum"]
+  },
+  "experiences": [
+    {
+      "company": "Hamrahe Aval (MCI)",
+      "role": "Frontend Developer",
+      "location": "Tehran, Iran",
+      "period": "Aug 2021 – Present",
+      "description": "Developed enterprise dashboards and administrative panels using Next.js, React, and TypeScript across search, healthcare, gamification, and CMS platforms.",
+      "projects": [
+        { "name": "Zarebin Search Engine", "desc": "Integrated frontend interfaces for large-scale search engine." },
+        { "name": "Zarebin Search Console & Ads Dashboards", "desc": "Analytics, campaign management, and reporting panels." },
+        { "name": "CMS & Survey Platform", "desc": "Configurable content and dynamic survey builder." },
+        { "name": "Club Gamification Platform", "desc": "User engagement modules, reward tracking, and interactive components." },
+        { "name": "Daruresan", "desc": "Healthcare and medicine delivery platform in collaboration with the Ministry of Health." }
+      ]
+    },
+    {
+      "company": "Shooka",
+      "role": "Frontend Developer",
+      "location": "Tehran, Iran",
+      "period": "Feb 2018 – May 2021",
+      "description": "Engineered real-time communication platforms, enterprise video meeting tools, and responsive admin panels.",
+      "projects": [
+        { "name": "Corporate & Cloud Meeting Platforms", "desc": "Web-based video conferencing and collaboration suites." },
+        { "name": "Video Call Center & P2P Platform", "desc": "Live customer support and direct WebRTC communication interfaces." },
+        { "name": "Live Streaming Platform", "desc": "High-throughput live event broadcasting interface." }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Artificial Intelligence",
+      "institution": "Islamic Azad University, Tehran",
+      "period": "2017 – 2019"
+    },
+    {
+      "degree": "B.Eng. in Information Technology",
+      "institution": "Islamic Azad University, Tehran",
+      "period": "2013 – 2017"
+    }
+  ],
+  "languages": ["Persian (Native)", "English (Full Professional Proficiency)"]
+}
+
